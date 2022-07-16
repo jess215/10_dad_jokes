@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #227c9d;
+    background-color: #457b9d;
+    color: #1d3557;
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
@@ -28,6 +29,7 @@ body {
 }
 
 h3 {
+    color: #1d3557;
     margin: 0;
     opacity: 0.5;
     letter-spacing: 2px;
@@ -42,10 +44,10 @@ h3 {
 }
 
 .btn {
-    background-color: #ffcb77;
+    background-color: #a8dadc;
     border: 0;
     border-radius: 10px;
-    color: #227c9d;
+    color: #1d3557;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
     padding: 14px 40px;
     font-size: 16px;
